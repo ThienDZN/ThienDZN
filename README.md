@@ -1,5 +1,6 @@
-## Hi there 👋
+### Follow me
 
+[![HackMD](https://img.shields.io/badge/HackMD-Read%20my%20Notes-blue?logo=hackmd&logoColor=white)](https://hackmd.io/folders/DqrImSTgGU63A67oQctuo)
 <!--
 **ThienDZN/ThienDZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
